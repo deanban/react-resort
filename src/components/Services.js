@@ -7,7 +7,7 @@ export class Services extends Component {
     services: [
       {
         icon: <FaCocktail />,
-        title: 'free cocktails',
+        title: 'free drinks',
         info:
           'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, dolore.'
       },
@@ -23,12 +23,12 @@ export class Services extends Component {
         info:
           'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, dolore.'
       },
-      {
-        icon: <FaBeer />,
-        title: 'free beers',
-        info:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, dolore.'
-      }
+      // {
+      //   icon: <FaBeer />,
+      //   title: 'free beers',
+      //   info:
+      //     'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, dolore.'
+      // }
     ]
   };
 
